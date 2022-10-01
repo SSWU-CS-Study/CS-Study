@@ -27,8 +27,6 @@
 - [데이터베이스](#데이터베이스)
 - [개발 상식](#개발상식)
 
-...
-
 <br>
 
 ## 💁‍♀️학습 주제 테이블
@@ -45,9 +43,9 @@
 
 ## 📌Reference
 
-- [gygoole](#https://gyoogle.dev/blog/)
-- [tech-interview-for-developer](#https://github.com/gyoogle/tech-interview-for-developer)
-- [tech_interview.zip](#https://github.com/4z7l/tech_interview.zip)
+- [gygoole](https://gyoogle.dev/blog/)
+- [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+- [tech_interview.zip](https://github.com/4z7l/tech_interview.zip)
 - https://github.com/alstjgg/cs-study
 
 <br>
