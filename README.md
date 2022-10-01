@@ -44,7 +44,7 @@
 
 ## 📌Reference
 
-- [gygoole](https://gyoogle.dev/blog/)
+- [gyoogle](https://gyoogle.dev/blog/)
 - [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
 - [tech_interview.zip](https://github.com/4z7l/tech_interview.zip)
 - https://github.com/alstjgg/cs-study
