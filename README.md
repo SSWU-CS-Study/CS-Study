@@ -17,6 +17,8 @@
 | ------ | -------------------------------------------- |
 | 성나영 | [@na3150](https://github.com/na3150)         |
 | 조성윤 | [@listenyoon](https://github.com/listenyoon) |
+| 나연 | [@cotton-ball](https://github.com/cotton-ball) |
+| 김재영 | [@jeayoungKim529](https://github.com/jeayoungKim529) |
 
 <br>
 
