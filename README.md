@@ -29,6 +29,7 @@
 - [운영체제](#운영체제)
 - [데이터베이스](#데이터베이스)
 - [개발상식](#개발상식)
+- [Java](#java)
 
 <br>
 
@@ -40,6 +41,9 @@
 | ------ | ------------ |
 | 성나영 | 네트워크     |
 | 조성윤 | 데이터베이스 |
+| 나연   | 개발 상식    |
+| 김재영 |              |
+| 김유정 | Java         |
 
 <br>
 
@@ -54,7 +58,7 @@
 
 ## ✔네트워크
 
-- OSI 7계층
+- [OSI 7계층](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/OSI%207%EA%B3%84%EC%B8%B5.md)
 - TCP 3 & 4 handshake
 - TCP/IP  흐름제어 & 혼잡제어
 - UDP
@@ -111,4 +115,10 @@
 - TDD란 무엇이며 어떠한 장점이 있는가
 - 객체 지향 프로그래밍이란 무엇인가
 - 함수형 프로그래밍
-- MVC 패턴이란 무엇인가
+- [MVC 패턴이란 무엇인가](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D/topic1_MVC.md)
+
+<br>
+
+## ✔Java
+
+- 가비지 컬렉션(Garbage Collection)
