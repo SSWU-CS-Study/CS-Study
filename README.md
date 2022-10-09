@@ -121,4 +121,4 @@
 
 ## ✔Java & Spring
 
-- 가비지 컬렉션(Garbage Collection)
+- [GC(Garbage Collection)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/Java_and_Spring/GC(GarbageCollection).md)
