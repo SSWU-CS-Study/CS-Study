@@ -119,6 +119,6 @@
 
 <br>
 
-## ✔Java
+## ✔Java & Spring
 
 - 가비지 컬렉션(Garbage Collection)
