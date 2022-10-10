@@ -75,11 +75,13 @@ Root 객체에서부터 시작하여 참조되고 있는 객체와 그렇지 않
 
 ### 2. Deletion(= Sweep)
 참조되고 있지 않는 상태의 객체의 메모리를 해제한다(객체를 삭제한다.)
+
 <img width="426" alt="Screen Shot 2022-10-09 at 1 26 35 AM" src="https://user-images.githubusercontent.com/68562176/194756205-7ef6ba80-bb6e-498e-8026-7db6b70237df.png">
 
 ### 3. Deletion with Compacting
 성능 향상을 위해 삭제(Deletion)후 압축(Compacting) 과정을 추가로 진행할 수 있다. 삭제 후 남아있는 객체를 압축시킨다. 
-→ 그렇게 되면, 새로 메모리를 할당할 때, 더 쉽고 빠르게 진행 가능하다.        
+→ 그렇게 되면, 새로 메모리를 할당할 때, 더 쉽고 빠르게 진행 가능하다.       
+
 <img width="404" alt="Screen Shot 2022-10-09 at 1 29 02 AM" src="https://user-images.githubusercontent.com/68562176/194756217-b359058f-6478-48d6-9b52-4e68a2999195.png">
 
 
