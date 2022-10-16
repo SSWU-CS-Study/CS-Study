@@ -42,8 +42,8 @@
 | 성나영 | 네트워크     |
 | 조성윤 | 데이터베이스 |
 | 나연   | 개발 상식    |
-| 김재영 |              |
-| 김유정 | Java         |
+| 김재영 | 운영체제     |
+| 김유정 | Java&Spring  |
 
 <br>
 
@@ -94,8 +94,8 @@
 
 ## ✔데이터베이스
 
-- 키(Key)
-- 조인(Join)
+- [데이터베이스 기본 개념](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%85%90.md)
+- [키(Key), 조인(Join)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/KEY%EC%99%80%20JOIN.md)
 - SQL Injection
 - SQL vs NOSQL
 - 이상(Anomaly)
