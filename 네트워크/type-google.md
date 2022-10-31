@@ -46,6 +46,65 @@ DNS 영역 파일은 서버에 저장된 텍스트 파일입니다. 여기에는
 www(world wide web)서비스이기 때문에 TCP 연결 후 HTTP 요청 전송
 <details>
   <summary>TCP 연결은 뭐고 어떻게 하는걸까?</summary>
+  
+  ## TCP ((Transmission Control Protocol))
+
+- OSI 7 계층 중 4계층인 전송계층에 속하는 프로토콜이다.
+- 프로그램 간 데이터를 순서대로 에러없이 교환할 수 있게 하는 역할이다.
+
+## 특징
+1. 연결 지향 프로토콜(Connection Oriented Protocol)
+2. 신뢰할 수 있는 프로토콜(Reliable Protocol)
+
+## 연결 지향 프로토콜
+- 가상회선방식: 물리적으로 전용회선이 연결되어 있는 것처럼 가상의 연결통로를 설정하여 통신하는 방식
+- 가상회선: 가상회선방식을 위해 설정한 가상의 연결통로
+- 논리적인 연결통로를 통해 데이터를 주고받음으로써 데이터의 전송순서를 보장해준다. 순서제어라고도 한다.
+- 스트림 기반의 전송방식을 사용한다. 데이터를 임의의 크기로 나누어 연속해서 전송하는 방식을 사용한다.
+
+→ 즉 TCP 연결이란 물리적으로 두 개의 컴퓨터를 연결하는 것이 아니라, 정보의 신뢰성을 위해 논리적으로 약속(연결) 하는 것이다. 
+
+![Untitled (7)](https://user-images.githubusercontent.com/68562176/198975378-cc2261fd-0358-47ca-a8b2-5164ec780bd0.png)
+
+
+## 신뢰할 수 있는 프로토콜
+- 흐름제어: 상대방이 받을 수 있는만큼만 데이터를 효율적으로 전송하는 것
+    
+    흐름제어를 위해 슬라이딩 윈도우(Sliding Window)방식을 사용한다. 이는 상대방이 수신 가능한 크기(Window size) 내에서 데이터를 연속해서 전송하는 방식으로 상대방이 받을 수 있는 범위 내에서 연속적으로 전송한다.
+    
+- 오류제어
+    
+    데이터의 오류나 누락없이 안전한 전송을 보장한다.
+    
+    오류 또는 누락 발생시 재전송을 수행하여 이를 보정한다.
+    
+- 혼잡제어
+    
+    네트워크의 혼잡 정도에 따라 송신자가 데이터 전송량을 제어하는 것을 말한다.
+    
+    혼잡정도에 대한 판단 기준은 데이터의 손실 발생 유무로 판단한다. 전송한 데이터에 누락이 발생하면 네트워크가 혼잡한 상태로 판단하여 전송량을 조절한다.
+    
+
+## 연결 및 데이터 송수신
+- 연결 - 3way hanshake
+![Untitled (8)](https://user-images.githubusercontent.com/68562176/198975459-165b3403-b7b5-4a85-83e3-cada74ef9e0a.png)
+![Untitled (9)](https://user-images.githubusercontent.com/68562176/198975481-a04bd662-2d45-453f-8455-35c75c2c0de4.png)
+
+## 연결 해제
+
+TCP 소켓을 통한 데이터 전송이 완료된 후, 서버와 클라이언트는 연결 해제를 위한 4way handshake를 진행하게 된다.
+![Untitled (10)](https://user-images.githubusercontent.com/68562176/198975523-600adb89-61c1-4445-8a48-8426920a47b6.png)
+
+## 연결을 해제해야하는 이유
+- 데이터 송수신이 끝난 후에도 제대로 연결해제가 되지 않아서 그대로 남아있는 세션을 `유령 세션`이라고 한다.
+- 제대로 접속 해제가 되지 않으면, 할당된 리소스 등이 해제되지 않고, 재접속시 문제를 일으킬 수 있다.
+
+## 참고
+[[Network] TCP 프로토콜 이란?](https://itragdoll.tistory.com/57)
+
+[TCP가 연결을 생성하고 종료하는 방법, 핸드쉐이크](https://evan-moon.github.io/2019/11/17/tcp-handshake/)
+
+[https://daengsik.tistory.com/30](https://daengsik.tistory.com/30)
 </details>
 <details>
   <summary>추가설명</summary>
