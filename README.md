@@ -67,10 +67,10 @@
 - HTTP & HTTPS
 - TLS/SSL HandShake
 - [검색창에 google.com을 치면 일어나는 일](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/type-google.md)
-
 - 로드 밸런싱(Load Balancing)
 - Blocking/Non-blocking & Synchronous/Asyncronous
 - Blocking & Non-Blocking I/O
+- [SOP와 CORS](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/cors.md)
 
 <br>
 
