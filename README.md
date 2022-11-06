@@ -66,6 +66,7 @@
 - 대칭키 & 공개키
 - HTTP & HTTPS
 - TLS/SSL HandShake
+- [검색창에 google.com을 치면 일어나는 일](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/type-google.md)
 
 - 로드 밸런싱(Load Balancing)
 - Blocking/Non-blocking & Synchronous/Asyncronous
@@ -97,7 +98,7 @@
 
 - [데이터베이스 기본 개념](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%9C%EB%85%90.md)
 - [키(Key), 조인(Join)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/KEY%EC%99%80%20JOIN.md)
-- SQL Injection
+- [SQL Injection](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/SQL%20Injection.md)
 - SQL vs NOSQL
 - 이상(Anomaly)
 - 인덱스(Index)
@@ -112,7 +113,7 @@
 ## ✔개발상식
 
 - Git과 Github에 대하여
-- RESTFul API란?
+- [RESTFul API란?](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D/CSY_RESTFul%20API.md)
 - TDD란 무엇이며 어떠한 장점이 있는가
 - 객체 지향 프로그래밍이란 무엇인가
 - 함수형 프로그래밍
