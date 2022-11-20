@@ -107,6 +107,7 @@
 - 트랜잭션 격리 수준
 - 레디스(Redis)
 - 저장 프로시저(Stored PROCEDURE)
+- [ORM과 SQL Mapper](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/ORM%EA%B3%BCSQLMapper.md)
 
 <br>
 
