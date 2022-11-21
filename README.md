@@ -64,7 +64,7 @@
 - [TCP/IP  흐름제어 & 혼잡제어](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-TCPIP%20%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%26%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4.md)
 - [UDP](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-UDP.md)
 - [대칭키 & 공개키](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-%EB%8C%80%EC%B9%AD%ED%82%A4%EC%99%80%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
-- HTTP & HTTPS
+- [HTTP & HTTPS](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-HTTP%EC%99%80%20HTTPS.md)
 - TLS/SSL HandShake
 - [검색창에 google.com을 치면 일어나는 일](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/type-google.md)
 - 로드 밸런싱(Load Balancing)
