@@ -67,7 +67,7 @@
 - [HTTP & HTTPS](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-HTTP%EC%99%80%20HTTPS.md)
 - [TLS/SSL HandShake](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-TLSSSL%20HandShake.md)
 - [검색창에 google.com을 치면 일어나는 일](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/type-google.md)
-- [쿠키(cookie)와 세션(session)]()
+- [쿠키(cookie)와 세션(session)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-%EC%BF%A0%ED%82%A4(cookie)%EC%99%80%20%EC%84%B8%EC%85%98(session).md)
 - 로드 밸런싱(Load Balancing)
 - Blocking/Non-blocking & Synchronous/Asyncronous
 - Blocking & Non-Blocking I/O
