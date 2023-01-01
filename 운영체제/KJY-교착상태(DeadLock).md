@@ -5,7 +5,7 @@
 
 </aside>
 
-[!https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxVu3c%2FbtrEc3xU5u8%2F4zLX6it423piByeKW3SJLk%2Fimg.png](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxVu3c%2FbtrEc3xU5u8%2F4zLX6it423piByeKW3SJLk%2Fimg.png)
+![https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxVu3c%2FbtrEc3xU5u8%2F4zLX6it423piByeKW3SJLk%2Fimg.png](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxVu3c%2FbtrEc3xU5u8%2F4zLX6it423piByeKW3SJLk%2Fimg.png)
 
 ## 9.2 발생조건
 
@@ -138,7 +138,7 @@
 - 이 외에도 자원 할당 그래프를 통해 탐지하는 방법도 있다.
 - 자원 할당 그래프
     
-    [!https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2745A63A5714C38329](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2745A63A5714C38329)
+    ![https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2745A63A5714C38329](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F2745A63A5714C38329)
     
     - 프로세스Pi로부터 자원 Rj로의 방향 간선은 Pi→Rj로 표현하며 이것은 프로세스 Pi가 자원Rj를 요청하는 것으로 현재 이 자원을 기다리는 상태
     - 자원 Rj로부터 프로세스 Pi로의 방향 간선은 Rj→Pi로 표현하며 이것은 자원이 프로세스 Pi에 이미 할당된 것을 의미
