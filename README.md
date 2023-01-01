@@ -107,7 +107,7 @@
 - [정규화(Normalization)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/CSY_%EC%A0%95%EA%B7%9C%ED%99%94(Normalization).md)
 - [트랜잭션(Transaction)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/CSY_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 - [트랜잭션 격리 수준](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/CSY_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EA%B3%A0%EB%A6%BD%20%EC%88%98%EC%A4%80.md)
-- 저장 프로시저(Stored PROCEDURE)
+- [저장 프로시저(Stored PROCEDURE)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/CSY_%EC%A0%80%EC%9E%A5%20%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80.md)
 - [ORM과 SQL Mapper](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/ORM%EA%B3%BCSQLMapper.md)
 - [JOIN](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/join.md)
 
