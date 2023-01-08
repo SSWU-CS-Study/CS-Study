@@ -284,11 +284,13 @@ L4 로드 밸런서에는 라운드 로빈, 가중치 할당 방식, 최소 연�
 
 </details>
 
+<br>
 
+<br>
 
 Reference
 
-- [링크](https://gyoogle.dev/blog/computer-science/network/Load Balancing.html)
+- [링크](https://gyoogle.dev/blog/computer-science/network/Load%20Balancing.html)
 
 - [링크](https://velog.io/@yanghl98/OS%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1-Load-Balancing-%EC%A0%95%EC%9D%98-%EC%A2%85%EB%A5%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
