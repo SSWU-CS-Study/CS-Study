@@ -110,6 +110,7 @@
 - [저장 프로시저(Stored PROCEDURE)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/CSY_%EC%A0%80%EC%9E%A5%20%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80.md)
 - [ORM과 SQL Mapper](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/ORM%EA%B3%BCSQLMapper.md)
 - [JOIN](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/join.md)
+- [Elastic Search와 역인덱스](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/CSY-ElasticSearch%EC%99%80%20%EC%97%AD%EC%9D%B8%EB%8D%B1%EC%8A%A4.md)
 
 <br>
 
