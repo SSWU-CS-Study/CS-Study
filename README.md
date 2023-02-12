@@ -123,6 +123,7 @@
 - 함수형 프로그래밍
 - [MVC 패턴이란 무엇인가](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D/topic1_MVC.md)
 - [CICD란?](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D/SNY_CICD%EB%9E%80.md)
+- [MSA란?](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D/SNY-MSA%EB%9E%80.md)
 
 <br>
 
