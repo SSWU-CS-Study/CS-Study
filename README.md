@@ -126,6 +126,7 @@
 - [CICD란?](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D/SNY_CICD%EB%9E%80.md)
 - [MSA란?](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D/SNY-MSA%EB%9E%80.md)
 - [가상화와 가상머신, 그리고 컨테이너](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D/SNY-%EA%B0%80%EC%83%81%ED%99%94%EC%99%80%20%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88.md)
+- [Web Server와 WAS](https://github.com/SSWU-CS-Study/CS-Study/tree/main/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D)
 
 <br>
 
