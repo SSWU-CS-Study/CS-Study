@@ -72,6 +72,7 @@
 - [라우팅(Routing)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-%EB%9D%BC%EC%9A%B0%ED%8C%85(Routing).md)
 - [DNS](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-DNS.md)
 - [SOP와 CORS](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/cors.md)
+- [소켓(socket)과 소켓 통신](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-%EC%86%8C%EC%BC%93(Socket)%EA%B3%BC%20%EC%86%8C%EC%BC%93%20%ED%86%B5%EC%8B%A0.md)
 
 <br>
 
