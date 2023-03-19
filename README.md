@@ -92,7 +92,7 @@
 - 페이징과 세그먼테이션
 - 페이지 교체 알고리즘
 - 메모리(Memory)
-- 파일 시스템(File System)(https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/CSY-%ED%8C%8C%EC%9D%BC%EA%B3%BC%20%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+- [파일 시스템(File System)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/CSY-%ED%8C%8C%EC%9D%BC%EA%B3%BC%20%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
 
 <br>
 
