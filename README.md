@@ -92,7 +92,7 @@
 - 페이징과 세그먼테이션
 - 페이지 교체 알고리즘
 - 메모리(Memory)
-- 파일 시스템(File System)
+- 파일 시스템(File System)(https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/CSY-%ED%8C%8C%EC%9D%BC%EA%B3%BC%20%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
 
 <br>
 
@@ -106,6 +106,7 @@
 - [이상(Anomaly)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%9D%B4%EC%83%81(Anomaly).md)
 - [인덱스(Index)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/CSY_%EC%9D%B8%EB%8D%B1%EC%8A%A4(Index).md)
 - [정규화(Normalization)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/CSY_%EC%A0%95%EA%B7%9C%ED%99%94(Normalization).md)
+- [반정규화](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/CSY-%EB%B0%98%EC%A0%95%EA%B7%9C%ED%99%94.md)
 - [트랜잭션(Transaction)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/CSY_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 - [트랜잭션 격리 수준](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/CSY_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EA%B3%A0%EB%A6%BD%20%EC%88%98%EC%A4%80.md)
 - [저장 프로시저(Stored PROCEDURE)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/CSY_%EC%A0%80%EC%9E%A5%20%ED%94%84%EB%A1%9C%EC%8B%9C%EC%A0%80.md)
