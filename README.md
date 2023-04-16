@@ -19,7 +19,6 @@
 | 조성윤 | [@listenyoon](https://github.com/listenyoon) |
 | 나연 | [@cotton-ball](https://github.com/cotton-ball) |
 | 김재영 | [@jeayoungKim529](https://github.com/jeayoungKim529) |
-| 김유정 | [@yujung7768903](https://github.com/yujung7768903) |
 
 <br>
 
