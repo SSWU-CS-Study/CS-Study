@@ -82,7 +82,7 @@
 - [운영체제란?](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/KJY-01.%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)
 - [프로세스와 스레드](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/KJY-02.%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4(Process)%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C(Thread).md)
 - [프로세스 주소 공간](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/SNY-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84.md)
-- 인터럽트(Interrupt)
+- [인터럽트(Interrupt)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/SNY-%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8(interrupt).md)
 - 시스템 콜(System Call)
 - PCB와 Context Switching
 - IPC(Inter Process Communication)
