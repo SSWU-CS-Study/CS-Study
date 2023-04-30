@@ -84,7 +84,7 @@
 - [프로세스 주소 공간](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/SNY-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EC%A3%BC%EC%86%8C%EA%B3%B5%EA%B0%84.md)
 - [인터럽트(Interrupt)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/SNY-%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8(interrupt).md)
 - 시스템 콜(System Call)
-- PCB와 Context Switching
+- [PCB와 Context Switching](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/SNY-PCB%EC%99%80%20Context%20Switching.md)
 - IPC(Inter Process Communication)
 - CPU 스케쥴링
 - 데드락(Dead Lock)
