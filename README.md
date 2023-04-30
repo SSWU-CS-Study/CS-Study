@@ -70,6 +70,7 @@
 - [쿠키(cookie)와 세션(session)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-%EC%BF%A0%ED%82%A4(cookie)%EC%99%80%20%EC%84%B8%EC%85%98(session).md)
 - [로드 밸런싱(Load Balancing)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1(Load%20Balancing).md)
 - [라우팅(Routing)](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-%EB%9D%BC%EC%9A%B0%ED%8C%85(Routing).md)
+- [라우팅과 포워딩](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/CSY-%EB%9D%BC%EC%9A%B0%ED%8C%85%EA%B3%BC%20%ED%8F%AC%EC%9B%8C%EB%94%A9.md)
 - [DNS](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-DNS.md)
 - [SOP와 CORS](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/cors.md)
 - [소켓(socket)과 소켓 통신](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-%EC%86%8C%EC%BC%93(Socket)%EA%B3%BC%20%EC%86%8C%EC%BC%93%20%ED%86%B5%EC%8B%A0.md)
