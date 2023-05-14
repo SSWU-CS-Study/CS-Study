@@ -76,7 +76,9 @@
 - [SOP와 CORS](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/cors.md)
 - [소켓(socket)과 소켓 통신](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/SNY-%EC%86%8C%EC%BC%93(Socket)%EA%B3%BC%20%EC%86%8C%EC%BC%93%20%ED%86%B5%EC%8B%A0.md)
 - [데이터링크 오류제어](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/CSY-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%81%ED%81%AC%20%EC%98%A4%EB%A5%98%EC%A0%9C%EC%96%B4.md)
-<br>
+- [데이터링크 다중화/교환기술](https://github.com/SSWU-CS-Study/CS-Study/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/CSY-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%81%ED%81%AC%20%EB%8B%A4%EC%A4%91%ED%99%94%EA%B5%90%ED%99%98%EA%B8%B0%EC%88%A0.md)
+
+<br />
 
 ## ✔운영체제
 
