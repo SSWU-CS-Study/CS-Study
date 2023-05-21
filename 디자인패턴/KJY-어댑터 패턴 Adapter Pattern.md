@@ -148,8 +148,6 @@ public Interface Print{
 
 ### PrintBanner Class
 
-- 
-- 
 
 ```java
 public class PrintBanner extends Banner implements Print{
@@ -171,8 +169,6 @@ public class PrintBanner extends Banner implements Print{
 
 ### Main
 
-- 
-- 
 
 ```java
 public class Main{
@@ -195,8 +191,6 @@ PrintBanner는 자신이 할 일을 Banner 클래스의 인스턴스에게 맡�
 
 ### Print Class
 
-- 
-- 
 
 ```java
 public abstract class Print{
@@ -206,9 +200,7 @@ public abstract class Print{
 ```
 
 ### PrintBanner Class
-
-- 
-- 
+ 
 
 ```java
 public class PrintBanner extends Print{
